@@ -8,11 +8,11 @@ Create a timer for recent missions
 
 ### Tech stack
 
--ReactJs
--Tailwind CSS
+- ReactJs
+- Tailwind CSS
 
 ### Rules to contribute
 
-> -Fork and clone this repository
-> -Make changes and if you have added any tech stack add it in README
-> -Create an issue and send PR
+> - Fork and clone this repository
+> - Make changes and if you have added any tech stack add it in README
+> - Create an issue and send PR
